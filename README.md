@@ -6,7 +6,7 @@ It is a single page application in Java that shows a customers list categorized 
 ```
 mvn spring-boot:run
 ```
-The home page can be access in http://localhost:8080/.
+The home page can be access in http://localhost:8080.
 
 ## Docker Image 
 
@@ -28,8 +28,8 @@ docker run -p 8080:8080 -it <docker-hub-account>/phone_checker_v1.0
 ## Technologies
 Below the technologies used in this project:
 
-* Java 11 - programming language (current long-term support release version.
-* Thymeleaf - Used for create page templates.
+* Java 11 - programming language (current long-term support release version).
+* Thymeleaf - Used for create home page template.
 * Bootstrap 4 - Used for page CSS. 
 * Spring Boot Data JPA - Used to access SQlite data.
 * SQlite - Customers database.
