@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <sqllite.version>3.25.2</sqllite.version>
+        <sqllite.version>3.41.2.2</sqllite.version>
         <sqllite-dialect.version>0.1.0</sqllite-dialect.version>
         <lombok.version>1.18.8</lombok.version>
         <mapstruct.version>1.3.1.Final</mapstruct.version>
